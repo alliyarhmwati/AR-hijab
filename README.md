@@ -164,18 +164,6 @@ Karena itu, urutan tahapan pelacakan berbeda tergantung metode:
 
 ---
 
-## Rencana Pengembangan Lanjutan
-
-Jika proyek ini ingin dikembangkan menjadi produk sungguhan:
-
-- Ganti localStorage dengan backend + database sungguhan agar data lintas perangkat
-- Hash password & autentikasi berbasis token/session sisi server
-- Integrasi payment gateway sungguhan (QRIS/VA) untuk transaksi nyata
-- Endpoint upload foto ke server/cloud storage, menggantikan alur "taruh file manual ke folder"
-- Notifikasi email/WhatsApp otomatis saat status pesanan berubah
-
----
-
 <div align="center">
 
 AR Pashmina Studio — proyek demo e-commerce.
